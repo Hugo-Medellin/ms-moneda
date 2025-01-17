@@ -27,7 +27,7 @@ import lombok.AllArgsConstructor;
 
 @RestController
 @RequestMapping("/api/moneda")
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = {"http://localhost:80", "http://localhost"})
 @AllArgsConstructor
 public class MonedaController {
 
