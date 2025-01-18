@@ -13,7 +13,7 @@ Proyecto generado con spring boot 3.3.7
 - Utilización de JpaRepository.
 - Lombok, creacion de metodos con anotaciones @Data, etc.
 - MapStruct, para mapeo entre entidades y dtos.
-- Swagger para documentación. `http://localhost:8080/swagger-ui.html`
+- Swagger para documentación. `http://localhost:8080/swagger-ui/index.html`
 
 ## Ejecución de proyecto con repositorio clonado.
 
