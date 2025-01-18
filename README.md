@@ -21,3 +21,6 @@ Proyecto generado con spring boot 3.3.7
 - cd ms-moneda
 - importar proyecto en Spring Tool Suite.
 - ejecutar microservicio.
+
+## Ejecución de proyecto con docker-compose
+Revisar documentación de [Repositorio CrudApp](https://github.com/Hugo-Medellin/crudApp)
